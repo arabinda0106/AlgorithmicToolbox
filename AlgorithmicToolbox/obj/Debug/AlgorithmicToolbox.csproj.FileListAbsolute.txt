@@ -1,0 +1,5 @@
+C:\OD_ETS\OneDrive\Coursera\Course 1 - Algorithmic Toolbox\AlgorithmicToolbox\AlgorithmicToolbox\bin\Debug\AlgorithmicToolbox.exe.config
+C:\OD_ETS\OneDrive\Coursera\Course 1 - Algorithmic Toolbox\AlgorithmicToolbox\AlgorithmicToolbox\bin\Debug\AlgorithmicToolbox.exe
+C:\OD_ETS\OneDrive\Coursera\Course 1 - Algorithmic Toolbox\AlgorithmicToolbox\AlgorithmicToolbox\bin\Debug\AlgorithmicToolbox.pdb
+C:\OD_ETS\OneDrive\Coursera\Course 1 - Algorithmic Toolbox\AlgorithmicToolbox\AlgorithmicToolbox\obj\Debug\AlgorithmicToolbox.exe
+C:\OD_ETS\OneDrive\Coursera\Course 1 - Algorithmic Toolbox\AlgorithmicToolbox\AlgorithmicToolbox\obj\Debug\AlgorithmicToolbox.pdb
