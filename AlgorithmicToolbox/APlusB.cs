@@ -4,7 +4,7 @@ namespace APlusB
 {
     public class Program
     {
-        public void Main(string[] args)
+        public void Main1(string[] args)
         {
             var input = Console.ReadLine();
             var tokens = input.Split(' ');

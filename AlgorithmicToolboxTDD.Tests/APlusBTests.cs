@@ -17,7 +17,7 @@ namespace AlgorithmicToolboxTDD.Tests
             APlusB.Program p = new APlusB.Program();
 
             //Act
-            p.Main(new string[] { "3", "2" });
+            //p.Main(new string[] { "3", "2" });
             //Assert
         }
     }
